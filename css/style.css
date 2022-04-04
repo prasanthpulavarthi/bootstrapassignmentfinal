@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    box-sizing: border-box;
+    margin: 0;
+}
+h6{
+    margin-bottom: 0;
+}
+
+.card-img{
+    filter: blur(5px);
+}
+.card-img-overlay{
+    top:30%;
+}
+.third-container p{
+    margin-bottom: 0;
+}
+.icons{
+    margin-right: 10px;
+    font-size: 25px;
+}
+.copyright{
+    margin-top:90px;
+}
+.copyright p{
+    margin-bottom: 5px;
+}
+.card-group .card{
+    border:none;
+}
+.circle{
+    width:100px;
+    height:100px;
+    /* border:1px solid red; */
+    border-radius: 50%;
+    margin-right: 15px;
+}
+footer a{
+    text-decoration: none;
+}
+footer .bi{
+    color:white;
+}
